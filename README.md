@@ -9,7 +9,7 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Inconsolata&weight=500&size=40&duration=6000&pause=300&color=CE9178&center=true&vCenter=true&multiline=false&repeat=false&width=1120&height=60&lines=%22Hello%20%F0%9F%A4%9D%20I'm%20Reb%C3%B8rn%20-%20backend%20dev%22" alt="string">
 </span>
 <span style="display: inline-block; vertical-align: middle;">
-  <img src="https://readme-typing-svg.demolab.com/?font=Inconsolata&weight=500&size=40&duration=4000&pause=300&color=FFD700&center=true&vCenter=true&multiline=false&repeat=false&width=60&height=60&lines=)" alt="closing parenthesis">
+  <img src="https://readme-typing-svg.demolab.com/?font=Inconsolata&weight=500&size=40&duration=4000&pause=300&color=FFD700&center=true&vCenter=true&multiline=false&repeat=false&width=60&height=60&lines=%20%20%20%20" alt="closing parenthesis">
 </span>
 
   
