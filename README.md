@@ -35,7 +35,7 @@
 
 ---
 
-[![Reborn's Activity Graph](https://activity-graph.herokuapp.com/graph?username=reborn-web3&theme=react-dark)](https://github.com/reborn)
+[![Reborn's Activity Graph](https://activity-graph.herokuapp.com/graph?username=reborn-web3&theme=react-dark)](https://github.com/reborn-web3)
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=reborn-web3&theme=radical)
