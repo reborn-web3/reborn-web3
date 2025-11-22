@@ -29,7 +29,7 @@
 
 ---
 
-## 📈 Статистика GitHub
+## 📈 GitHub Stats
 
 ![Reborn's GitHub stats](https://github-readme-stats.vercel.app/api?username=reborn-web3&show_icons=true&theme=radical)
 
