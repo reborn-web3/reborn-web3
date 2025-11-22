@@ -12,7 +12,6 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Inconsolata&weight=500&size=40&duration=4000&pause=300&color=FFD700&center=true&vCenter=true&multiline=false&repeat=false&width=60&height=60&lines=)" alt="closing parenthesis">
 </span>
 
-
   
   ### Technology stack
 
