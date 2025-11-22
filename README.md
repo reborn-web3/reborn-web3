@@ -18,7 +18,11 @@ Here are some ideas to get you started:
   <img src="https://readme-typing-svg.demolab.com/?font=Inconsolata&weight=500&size=40&duration=4000&pause=300&color=DCDCAA&center=true&vCenter=true&multiline=false&repeat=false&width=180&height=60&lines=print(" alt="print">
 </span>
 <span style="display: inline-block; vertical-align: middle;">
-  <img src="https://readme-typing-svg.demolab.com/?font=Inconsolata&weight=500&size=40&duration=4000&pause=300&color=CE9178&center=true&vCenter=true&multiline=false&repeat=false&width=1120&height=60&lines=%22Hello%20%F0%9F%A4%9D%20I'm%20Reb%C3%B8rn%20-%20backend%20dev%22)" alt="string">
+  <img src="https://readme-typing-svg.demolab.com/?font=Inconsolata&weight=500&size=40&duration=4000&pause=300&color=CE9178&center=true&vCenter=true&multiline=false&repeat=false&width=1120&height=60&lines=%22Hello%20%F0%9F%A4%9D%20I'm%20Reb%C3%B8rn%20-%20backend%20dev%22" alt="string">
+</span>
+<br>
+<span style="display: inline-block; vertical-align: middle;">
+  <img src="https://readme-typing-svg.demolab.com/?font=Inconsolata&weight=500&size=40&duration=4000&pause=300&color=DCDCAA&center=true&vCenter=true&multiline=false&repeat=false&width=60&height=60&lines=)" alt="closing parenthesis">
 </span>
 
 
