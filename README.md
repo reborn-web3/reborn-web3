@@ -34,3 +34,11 @@
 ![Reborn's GitHub stats](https://github-readme-stats.vercel.app/api?username=reborn&show_icons=true&theme=radical)
 
 ---
+
+[![Reborn's Activity Graph](https://activity-graph.herokuapp.com/graph?username=reborn&theme=react-dark)](https://github.com/reborn)
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=reborn&theme=radical)
+
+
+
