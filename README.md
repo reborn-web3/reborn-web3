@@ -21,7 +21,8 @@
 **Databases:**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![aiosqlite](img.shields.io)
+![aiosqlite](https://img.shields.io/badge/aiosqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
 
 
 **Infrastructure:**
